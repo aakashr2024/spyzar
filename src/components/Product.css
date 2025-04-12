@@ -1,0 +1,98 @@
+/* Products.css */
+.products {
+  background-color: #f5f5f5;
+}
+
+.products-intro {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 3rem;
+  font-size: 1.1rem;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.product-card {
+  background-color: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+
+.product-card:hover {
+  transform: translateY(-10px);
+}
+
+.product-img {
+  height: 200px;
+  background-color: #f2f2f2;
+  background-position: center;
+  background-size: cover;
+}
+
+.product-card:nth-child(1) .product-img {
+  background-image: url("../images/black-pepper.jpg");
+}
+
+.product-card:nth-child(2) .product-img {
+  background-image: url("../images/cardamom.jpg");
+}
+
+.product-card:nth-child(3) .product-img {
+  background-image: url("../images/cloves.jpg");
+}
+
+.product-card:nth-child(4) .product-img {
+  background-image: url("../images/turmeric.jpg");
+}
+
+.product-card:nth-child(5) .product-img {
+  background-image: url("../images/ginger.jpg");
+}
+
+.product-card:nth-child(6) .product-img {
+  background-image: url("../images/cumin.jpg");
+}
+
+.product-card:nth-child(7) .product-img {
+  background-image: url("../images/nutmeg.jpg");
+}
+
+.product-card:nth-child(8) .product-img {
+  background-image: url("../images/herbs.jpg");
+}
+
+.product-card h3 {
+  padding: 1.5rem 1.5rem 0.5rem;
+  font-size: 1.3rem;
+}
+
+.product-card p {
+  padding: 0 1.5rem 1.5rem;
+  color: var(--gray-color);
+}
+
+.custom-solutions {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+.custom-solutions h3 {
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+.custom-solutions p {
+  margin-bottom: 1.5rem;
+}

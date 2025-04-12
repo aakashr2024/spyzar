@@ -1,0 +1,54 @@
+/* ExportMarkets.css */
+.export-markets {
+  background-color: #f5f5f5;
+}
+
+.markets-intro {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.1rem;
+}
+
+.markets-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.market-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+
+.market-card:hover {
+  transform: translateY(-5px);
+}
+
+.market-card h3 {
+  color: var(--primary-color);
+  margin-bottom: 0.8rem;
+}
+
+.world-map {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.map-placeholder {
+  height: 400px;
+  background-color: rgba(230, 126, 34, 0.1);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.map-placeholder p {
+  font-size: 1.5rem;
+  color: var(--primary-color);
+  font-weight: 600;
+}
