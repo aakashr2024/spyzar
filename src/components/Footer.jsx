@@ -38,18 +38,19 @@ const Footer = () => {
           <div className="footer-social">
             <h3>Connect With Us</h3>
             <div className="social-icons">
-              <a href="#" className="social-icon">
-                <FaFacebookF />
-              </a>
-              <a href="#" className="social-icon">
-                <FaXTwitter />
-              </a>
-              <a href="#" className="social-icon">
-                <FaInstagram />
-              </a>
-              <a href="#" className="social-icon">
-                <FaLinkedinIn />
-              </a>
+            <a href="https://facebook.com/spyzar" target="_blank" rel="noopener noreferrer" className="social-icon">
+             <FaFacebookF />
+            </a>
+            <a href="https://twitter.com/spyzar" target="_blank" rel="noopener noreferrer" className="social-icon">
+  <FaXTwitter />
+            </a>
+<a href="https://instagram.com/spyzar" target="_blank" rel="noopener noreferrer" className="social-icon">
+             <FaInstagram />
+</a>
+<a href="https://linkedin.com/company/spyzar" target="_blank" rel="noopener noreferrer" className="social-icon">
+  <FaLinkedinIn />
+</a>
+
             </div>
           </div>
         </div>
