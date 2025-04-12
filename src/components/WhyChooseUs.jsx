@@ -28,7 +28,7 @@ const WhyChooseUs = () => {
     },
     {
       title: "Quality Control",
-      description: "Rigorous testing and export-ready processes",
+      description: "Rigorous testing and export-ready processes ",
       icon: <FaCheckCircle />,
     },
     {
