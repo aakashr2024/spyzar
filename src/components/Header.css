@@ -16,9 +16,17 @@
   align-items: center;
 }
 
+
 .logo {
   display: flex;
-  flex-direction: column;
+  flex-direction: row; /* Changed from column to row */
+  align-items: center; /* Vertically center the elements */
+  gap: 10px; /* Space between the image and text */
+}
+
+.logo img {
+  height: 50px; /* Set an appropriate height for your logo */
+  width: auto; /* Maintain aspect ratio */
 }
 
 .logo h1 {
@@ -28,10 +36,16 @@
   font-size: 1.8rem;
 }
 
+.logo .text-container {
+  display: flex;
+  flex-direction: column;
+}
+
 .tagline {
   font-size: 0.8rem;
   color: var(--secondary-color);
   font-style: italic;
+  margin-top: 0; /* Remove top margin to keep it close to the heading */
 }
 
 .main-nav ul {

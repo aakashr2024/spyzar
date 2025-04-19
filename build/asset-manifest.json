@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.95e81abc.css",
-    "main.js": "/static/js/main.ede7ec0c.js",
+    "main.css": "/static/css/main.0b5c8a64.css",
+    "main.js": "/static/js/main.cf46b478.js",
     "static/js/453.1f75e8f1.chunk.js": "/static/js/453.1f75e8f1.chunk.js",
     "static/media/about-spices.png": "/static/media/about-spices.ae7505dc01419a4c0b98.png",
     "static/media/herbs.jpg": "/static/media/herbs.9cdda5bd913ef0869c41.jpg",
@@ -10,16 +10,17 @@
     "static/media/cardamom.jpg": "/static/media/cardamom.5697fd9bb80f8ab61f08.jpg",
     "static/media/cumin.jpg": "/static/media/cumin.a4edf81be70d614f2cfb.jpg",
     "static/media/spybackground.jpg": "/static/media/spybackground.f698d08c5b4f0f04a44d.jpg",
+    "static/media/spyzar.png": "/static/media/spyzar.273cfb6caf315fa909d8.png",
     "static/media/cloves.jpg": "/static/media/cloves.d85f58b1ab753dc9c532.jpg",
     "static/media/turmeric.jpg": "/static/media/turmeric.c204e321d67d5ddd7527.jpg",
     "static/media/black-pepper.jpg": "/static/media/black-pepper.8a6fa61f463dfbff4682.jpg",
     "index.html": "/index.html",
-    "main.95e81abc.css.map": "/static/css/main.95e81abc.css.map",
-    "main.ede7ec0c.js.map": "/static/js/main.ede7ec0c.js.map",
+    "main.0b5c8a64.css.map": "/static/css/main.0b5c8a64.css.map",
+    "main.cf46b478.js.map": "/static/js/main.cf46b478.js.map",
     "453.1f75e8f1.chunk.js.map": "/static/js/453.1f75e8f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95e81abc.css",
-    "static/js/main.ede7ec0c.js"
+    "static/css/main.0b5c8a64.css",
+    "static/js/main.cf46b478.js"
   ]
 }

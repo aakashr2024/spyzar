@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./Header.css";
+import spyzar from "../images/spyzar.png"
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -8,8 +9,11 @@ const Header = () => {
     <header className="header">
       <div className="container header-container">
         <div className="logo">
-          <h1>SPYZAR</h1>
-          <p className="tagline">Global Spices. From Source to Shelf.</p>
+          <img src={spyzar} alt="Spyzar Logo" />
+          <div className="text-container">
+            <h1>SPYZAR</h1>
+            <p className="tagline">Global Spices. From Source to Shelf.</p>
+          </div>
         </div>
         <div
           className={`mobile-menu-btn ${menuOpen ? "open" : ""}`}
