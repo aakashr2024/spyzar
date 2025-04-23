@@ -10,6 +10,9 @@ const Products = () => {
     {
       name: "Crushed Spices",
     },
+    {
+      name: "Pepper",
+    },
     { name: "Cardamom" },
     { name: "Cloves" },
     {

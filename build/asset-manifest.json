@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eca65051.css",
-    "main.js": "/static/js/main.3fec07b8.js",
+    "main.js": "/static/js/main.55173725.js",
     "static/js/453.1f75e8f1.chunk.js": "/static/js/453.1f75e8f1.chunk.js",
     "static/media/about-spices.png": "/static/media/about-spices.ae7505dc01419a4c0b98.png",
     "static/media/herbs.jpg": "/static/media/herbs.9cdda5bd913ef0869c41.jpg",
@@ -18,11 +18,11 @@
     "static/media/black-pepper.jpg": "/static/media/black-pepper.8a6fa61f463dfbff4682.jpg",
     "index.html": "/index.html",
     "main.eca65051.css.map": "/static/css/main.eca65051.css.map",
-    "main.3fec07b8.js.map": "/static/js/main.3fec07b8.js.map",
+    "main.55173725.js.map": "/static/js/main.55173725.js.map",
     "453.1f75e8f1.chunk.js.map": "/static/js/453.1f75e8f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eca65051.css",
-    "static/js/main.3fec07b8.js"
+    "static/js/main.55173725.js"
   ]
 }
