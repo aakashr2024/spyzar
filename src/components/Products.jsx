@@ -5,7 +5,10 @@ import "./Product.css";
 const Products = () => {
   const productList = [
     {
-      name: "Black Pepper",
+      name: "Red Chilli",
+    },
+    {
+      name: "Crushed Spices",
     },
     { name: "Cardamom" },
     { name: "Cloves" },

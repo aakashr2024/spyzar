@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b5c8a64.css",
-    "main.js": "/static/js/main.cf46b478.js",
+    "main.css": "/static/css/main.eca65051.css",
+    "main.js": "/static/js/main.3fec07b8.js",
     "static/js/453.1f75e8f1.chunk.js": "/static/js/453.1f75e8f1.chunk.js",
     "static/media/about-spices.png": "/static/media/about-spices.ae7505dc01419a4c0b98.png",
     "static/media/herbs.jpg": "/static/media/herbs.9cdda5bd913ef0869c41.jpg",
     "static/media/ginger.jpg": "/static/media/ginger.ec903944e4a482fbf5b1.jpg",
+    "static/media/redchilli.jpg": "/static/media/redchilli.3b6e2886847b39bc5cb5.jpg",
     "static/media/nutmeg.jpg": "/static/media/nutmeg.ab63e3959094a4cd5e6c.jpg",
     "static/media/cardamom.jpg": "/static/media/cardamom.5697fd9bb80f8ab61f08.jpg",
     "static/media/cumin.jpg": "/static/media/cumin.a4edf81be70d614f2cfb.jpg",
     "static/media/spybackground.jpg": "/static/media/spybackground.f698d08c5b4f0f04a44d.jpg",
+    "static/media/crushedSpices.jpg": "/static/media/crushedSpices.3f11a9f5689f21b88ce6.jpg",
     "static/media/spyzar.png": "/static/media/spyzar.273cfb6caf315fa909d8.png",
     "static/media/cloves.jpg": "/static/media/cloves.d85f58b1ab753dc9c532.jpg",
     "static/media/turmeric.jpg": "/static/media/turmeric.c204e321d67d5ddd7527.jpg",
     "static/media/black-pepper.jpg": "/static/media/black-pepper.8a6fa61f463dfbff4682.jpg",
     "index.html": "/index.html",
-    "main.0b5c8a64.css.map": "/static/css/main.0b5c8a64.css.map",
-    "main.cf46b478.js.map": "/static/js/main.cf46b478.js.map",
+    "main.eca65051.css.map": "/static/css/main.eca65051.css.map",
+    "main.3fec07b8.js.map": "/static/js/main.3fec07b8.js.map",
     "453.1f75e8f1.chunk.js.map": "/static/js/453.1f75e8f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b5c8a64.css",
-    "static/js/main.cf46b478.js"
+    "static/css/main.eca65051.css",
+    "static/js/main.3fec07b8.js"
   ]
 }

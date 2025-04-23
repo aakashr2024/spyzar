@@ -35,36 +35,41 @@
   background-position: center;
   background-size: cover;
 }
-
 .product-card:nth-child(1) .product-img {
+  background-image: url("../images/redchilli.jpg");
+}
+.product-card:nth-child(2) .product-img {
+  background-image: url("../images/crushedSpices.jpg");
+}
+.product-card:nth-child(3) .product-img {
   background-image: url("../images/black-pepper.jpg");
 }
 
-.product-card:nth-child(2) .product-img {
+.product-card:nth-child(4) .product-img {
   background-image: url("../images/cardamom.jpg");
 }
 
-.product-card:nth-child(3) .product-img {
+.product-card:nth-child(5) .product-img {
   background-image: url("../images/cloves.jpg");
 }
 
-.product-card:nth-child(4) .product-img {
+.product-card:nth-child(6) .product-img {
   background-image: url("../images/turmeric.jpg");
 }
 
-.product-card:nth-child(5) .product-img {
+.product-card:nth-child(7) .product-img {
   background-image: url("../images/ginger.jpg");
 }
 
-.product-card:nth-child(6) .product-img {
+.product-card:nth-child(8) .product-img {
   background-image: url("../images/cumin.jpg");
 }
 
-.product-card:nth-child(7) .product-img {
+.product-card:nth-child(9) .product-img {
   background-image: url("../images/nutmeg.jpg");
 }
 
-.product-card:nth-child(8) .product-img {
+.product-card:nth-child(10) .product-img {
   background-image: url("../images/herbs.jpg");
 }
 
